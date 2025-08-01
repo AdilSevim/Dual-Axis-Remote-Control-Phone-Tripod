@@ -123,8 +123,6 @@ For part‑specific notes, see **`3d_parts/INFO.md`**.
 - **Learn‑Mode pin (optional):** **D4** (pull **LOW** on boot to enter Learn Mode)
 - **Power:** 9–12 V DC, ≥2 A depending on your steppers and load. Power the motors through the shield’s motor supply jack/terminals.
 
-> See **`docs/wiring_diagram.png`** for a visual guide.
-
 ---
 
 ## Firmware & Setup
@@ -188,7 +186,7 @@ For part‑specific notes, see **`3d_parts/INFO.md`**.
 
 ---
 
-## Credits & Contact
+## Credits 
 All **3D designs**, **firmware**, and **documentation** by **Adil Sevim**.  
 Questions or collaboration inquiries: *[adilsevim18@gmail.com]*
 
