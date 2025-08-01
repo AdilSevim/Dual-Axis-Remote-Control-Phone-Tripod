@@ -13,12 +13,12 @@ See /3d_parts/LICENSE for the full text.
 
 Suggested attribution: “Adil Sevim – Tripod Phone Remote Project” (link to this repository).
 
-No Warranty / Garanti Yok
+No Warranty 
 This project is provided “as is”, without warranties or conditions of any kind.
 
-Commercial Licensing / Ticari Lisans
+Commercial Licensing 
 If you need commercial rights, please contact the author.
-E-mail: (iletişim e-postanı buraya yaz)
+E-mail: (adilsevim18@gmail.com)
 
 Copyright
 © 2025 Adil Sevim. All rights reserved under the above licenses.
