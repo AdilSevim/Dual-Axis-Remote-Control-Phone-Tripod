@@ -1,0 +1,24 @@
+License / Lisans
+Software (Code) – PolyForm Noncommercial 1.0.0
+
+Commercial use is prohibited. Personal, educational, research, and other non-commercial uses are permitted under the license terms.
+
+See /LICENSE for the full text.
+
+3D Models, Visuals & Docs – CC BY-NC 4.0
+
+Attribution required, commercial use prohibited. You may share and adapt for non-commercial purposes with credit to the author.
+
+See /3d_parts/LICENSE for the full text.
+
+Suggested attribution: “Adil Sevim – Tripod Phone Remote Project” (link to this repository).
+
+No Warranty / Garanti Yok
+This project is provided “as is”, without warranties or conditions of any kind.
+
+Commercial Licensing / Ticari Lisans
+If you need commercial rights, please contact the author.
+E-mail: (iletişim e-postanı buraya yaz)
+
+Copyright
+© 2025 Adil Sevim. All rights reserved under the above licenses.
