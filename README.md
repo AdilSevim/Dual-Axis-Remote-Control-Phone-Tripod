@@ -3,7 +3,7 @@
 > **Original build date:** **July 2024**
 > **Author:** **Adil Sevim**
 
----
+--- 
 
 ## Table of Contents
 - [Key Features](#key-features)
